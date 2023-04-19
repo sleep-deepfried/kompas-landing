@@ -1,0 +1,22 @@
+.container {
+    overflow: hidden;
+}
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+  
+.video-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
+}
+  
+.video-responsive iframe {
+    width: 900px !important;
+    height: 500px !important;
+}
+  
+  
